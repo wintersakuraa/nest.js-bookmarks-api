@@ -162,7 +162,7 @@ EDIT Bookmark
 }
 ```
 
-### GET: /bookmarks:id
+### DELETE: /bookmarks:id
 Delete Bookmark
 
 ## Stack
